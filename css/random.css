@@ -1,0 +1,18 @@
+.card img {
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.card {
+    text-align: center;
+    background: #e91e6314;
+    padding: 20px;
+}
+
+
+
+
+
+
